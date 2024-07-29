@@ -137,9 +137,9 @@ footer {
 /* Background */
 
 .background {
-    mask-image: url('/assets/media/img/aaa.png');
+    mask-image: url('assets/media/img/aaa.png');
     display: flex;
-    -webkit-mask-image: url('/assets/media/img/aaa.png');
+    -webkit-mask-image: url('assets/media/img/aaa.png');
     align-items: center;
     mask-size: cover;
     background-color: var(--primary);
@@ -177,7 +177,7 @@ footer {
 
 .top {
     position: relative;
-    background: url('/assets/media/img/head-1.png');
+    background: url('assets/media/img/head-1.png');
     text-align: center;
     background-position: center;
     background-repeat: no-repeat;
@@ -190,7 +190,7 @@ footer {
 .bottom {
     display: none;
     position: relative;
-    background: url('/assets/media/img/head-2.png');
+    background: url('assets/media/img/head-2.png');
     height: 20vh;
     background-repeat: no-repeat;
     /* background-position: center; */
@@ -205,7 +205,7 @@ footer {
 /* Title */
 
 .title {
-    background: url('/assets/media/bg/asset-1.png');
+    background: url('assets/media/bg/asset-1.png');
     display: flex;
     flex-direction: column;
     background-repeat: no-repeat;
@@ -330,7 +330,7 @@ footer {
 /* About Us  */
 
 .bg-about {
-    mask-image: url('/assets/media/img/abt.png');
+    mask-image: url('assets/media/img/abt.png');
     height: 100vh;
     background-size: cover;
     top: -6em !important;
